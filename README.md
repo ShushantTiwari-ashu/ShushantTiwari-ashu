@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @ShushantTiwari-ashu
 - 👨🏻‍💻 Head of Mobile | Android Developer
-- 🚧 Working at **Mobile Programming LLC**
+- 🚧 Working at **Thoughtworks**
 - 🖥 Developing in `Java`, `Kotlin` and `Flutter`
 - 🌱 I’m currently learning **Jetpack compose for mobile and desktop** and **KMM**
 - 📫 shushanttiwari.ashu@gmail.com
