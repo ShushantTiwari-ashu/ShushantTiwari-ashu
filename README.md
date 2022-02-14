@@ -3,6 +3,6 @@
 - 👋 Hi, I’m @ShushantTiwari-ashu
 - 👨🏻‍💻 Head of Mobile | Android Developer
 - 🚧 Working at **Thoughtworks**
-- 🖥 Developing in `Java`, `Kotlin` and `Flutter`
-- 🌱 I’m currently learning **Jetpack compose for mobile and desktop** and **KMM**
+- 🖥 Developing in `Java`, `Kotlin`, `Flutter`,`Jetpack compose for mobile and desktop` and **KMM** 
+- 🌱 I’m currently learning **Python frameworks**
 - 📫 shushanttiwari.ashu@gmail.com
